@@ -1,4 +1,4 @@
-# DNA Databases and Their Usage by Law Enforcement Agencies
+# DNA Databases and Perspectives Regarding Their Usage
 
 In this document, I will discuss two prevalent perspectives regarding the access and usage of DNA databases by law enforcement agencies. The databases contain collections of digitized profiles of DNA samples much like what a scanned fingerprint is to an actual fingerprint, and are of two broad types. There are the DNA databases which explicitly exist to identify criminals and then they are other databases that exist for genealogical purposes (and finding lost family) but will sometimes cooperate with law enforcement agencies even violating their own terms of service for what they perceive to be the greater good.
 
